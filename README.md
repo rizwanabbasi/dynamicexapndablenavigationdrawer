@@ -1,6 +1,6 @@
 # dynamicexapndablenavigationdrawer
 Dynamic Expandable Navigation Drawer using Android Java
-Dynamic Expandable Navigation Drawer for Android
+
   ## Description
 
 This Android project provides a dynamic and customizable Expandable Navigation Drawer.  The Navigation Drawer menu structure and header content adapt based on user roles (e.g., student, teacher, admin) or any other dynamic condition you define.  It features:
