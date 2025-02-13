@@ -1,0 +1,13 @@
+<resources>
+    <item name="nav_home" type="id" />
+    <item name="nav_courses" type="id" />
+    <item name="nav_course_1" type="id" />
+    <item name="nav_course_2" type="id" />
+    <item name="nav_assignments" type="id" />
+    <item name="nav_assignment_1" type="id" />
+    <item name="nav_assignment_2" type="id" />
+    <item name="nav_profile" type="id" />
+    <item name="nav_grades" type="id" />
+    <item name="nav_grade_1" type="id" />
+    <item name="nav_grade_2" type="id" />
+</resources>
