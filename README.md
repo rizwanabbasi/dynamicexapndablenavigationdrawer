@@ -1,4 +1,4 @@
-# dynamicexapndablenavigationdrawer
+# Dynamic Expandable NavigationDrawer
 Dynamic Expandable Navigation Drawer using Android Java
 
   ## Description
